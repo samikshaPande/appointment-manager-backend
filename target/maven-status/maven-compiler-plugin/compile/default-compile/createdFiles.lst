@@ -1,0 +1,16 @@
+com\sam\model\UserModel.class
+com\sam\DoctorAppointmentApplication.class
+com\sam\configuration\JwtRequestFilter.class
+com\sam\model\Appointment.class
+com\sam\model\AuthResponse.class
+com\sam\repository\AppointmentRepository.class
+com\sam\repository\UserRepository.class
+com\sam\model\AuthRequest.class
+com\sam\repository\DoctorRepository.class
+com\sam\utils\ResourceNotFoundException.class
+com\sam\model\Doctor.class
+com\sam\controller\AppointmentController.class
+com\sam\services\UserService.class
+com\sam\controller\AuthController.class
+com\sam\services\JwtUtil.class
+com\sam\configuration\SecurityConfiguration.class
